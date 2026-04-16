@@ -1,0 +1,20 @@
+{"input": "I want to know my account balance", "output": "check_balance"}
+{"input": "Show me my balance", "output": "check_balance"}
+{"input": "How much money do I have?", "output": "check_balance"}
+{"input": "Check my account balance", "output": "check_balance"}
+{"input": "Pay my electricity bill", "output": "bill_payment"}
+{"input": "I want to pay my bill", "output": "bill_payment"}
+{"input": "Make a bill payment", "output": "bill_payment"}
+{"input": "Clear my pending bill", "output": "bill_payment"}
+{"input": "How much do I owe?", "output": "due_amount"}
+{"input": "What is my due amount?", "output": "due_amount"}
+{"input": "Tell me my outstanding balance", "output": "due_amount"}
+{"input": "Show pending amount", "output": "due_amount"}
+{"input": "Make full payment", "output": "full_payment"}
+{"input": "Pay everything", "output": "full_payment"}
+{"input": "Clear all dues", "output": "full_payment"}
+{"input": "I want to pay full amount", "output": "full_payment"}
+{"input": "Show my last transactions", "output": "transaction_history"}
+{"input": "Transaction history please", "output": "transaction_history"}
+{"input": "List my recent transactions", "output": "transaction_history"}
+{"input": "Show recent activity", "output": "transaction_history"}
